@@ -2,9 +2,7 @@
 
 # Notebook
 
-[git](.\git.md)
-
-
+<a href='git.md'>git</a>  
 
 ### Python
 

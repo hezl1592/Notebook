@@ -2,10 +2,10 @@
 
 最先进的分布式版本控制系统。
 
-**Workspace**：工作区
-**Index / Stage**：暂存区
-**Repository**：仓库区（或本地仓库）
-**Remote**：远程仓库
+**Workspace**：工作区  
+**Index / Stage**：暂存区  
+**Repository**：仓库区（或本地仓库）  
+**Remote**：远程仓库  
 
 ![1578902035452](0_image/git_status.png)
 
