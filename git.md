@@ -7,6 +7,8 @@
 **Repository**：仓库区（或本地仓库）
 **Remote**：远程仓库
 
+![1578902035452](0_image/git_status.png)
+
 - git status
 
   仓库当前的状态
@@ -21,6 +23,8 @@
 
 - git diff ***
 
-  检查文件是否被修改
+  检查文件是否被修改，检查修改内容
 
 - git log
+
+  查看
